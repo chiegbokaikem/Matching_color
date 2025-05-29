@@ -343,7 +343,7 @@ $(".b1").click(function() {
         userClickedColors = [];
         win = [];
         lose = [];
-        startTimer(20);
+        startTimer(60);
         stopAudio("timer");
         
         $("h2").text("Study the Colors");
